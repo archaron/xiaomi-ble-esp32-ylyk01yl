@@ -69,7 +69,7 @@ bool bPreAauthDone = false;
 bool bPaired = false;
 
 // Ignore stored beacon key and for device to be paired
-bool bForcePair = true;
+bool bForcePair = false;
 
 // TODO: generate token authomatically on auth, instead of static data
 // Can be any

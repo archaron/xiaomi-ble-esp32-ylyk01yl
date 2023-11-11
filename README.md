@@ -1,6 +1,6 @@
 # XIAOMI BLE Yeelight YLYK01L proof-of-concept for ESP32
 
-Proof-of-concept application for ESP32 to auth & decode YLYK01L (and maybe other contorls dimmers, etc). 
+Proof-of-concept application for ESP32 to auth & decode YLYK01L (and maybe other controls dimmers, etc). 
 
 
 Scans for XIAOMI BLE device with productID specifed in `requiredProductId`, authenticates, receives beacon key and stores it in the EEPROM.
